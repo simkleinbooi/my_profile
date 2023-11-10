@@ -11,8 +11,8 @@
 
     <ImageView
         android:id="@+id/imageView3"
-        android:layout_width="385dp"
-        android:layout_height="310dp"
+        android:layout_width="359dp"
+        android:layout_height="266dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Wanna Know More About Kleinman?"
-        android:textColor="#ededed"
+        android:textColor="#36454F"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toTopOf="@+id/linearLayout"
